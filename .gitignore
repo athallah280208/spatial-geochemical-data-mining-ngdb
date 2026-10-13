@@ -1,0 +1,11 @@
+# data is not redistributed
+data/*.csv
+data/*.zip
+# notebooks / python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+# OS
+.DS_Store
+Thumbs.db
