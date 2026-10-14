@@ -19,7 +19,7 @@ Unsupervised clustering of major-oxide geochemistry from the USGS National Geoch
 | 1 | 4,823 | Low SiO₂, high MgO | 10 / 53 (18.9%, too few to interpret) |
 | 2 | 28,578 | Silica-rich (felsic) | 408 / 758 (53.8%) |
 
-- Silhouette (k = 3): **0.414**; Davies–Bouldin: **0.934**. k = 5 scores slightly better (0.435 / 0.775).
+- Silhouette (k = 3): **0.414**; Davies–Bouldin: **0.934**. k = 5 scores only slightly better (0.435 / 0.775), so k = 3 was chosen because it yields three groups that can be interpreted geochemically (felsic, intermediate, and low-SiO₂/high-MgO).
 - Sn vs. cluster: χ² = 615.73, df = 2, p ≈ 2×10⁻¹³⁴.
 - The clusters are spatially interleaved; they do not form latitude bands.
 
