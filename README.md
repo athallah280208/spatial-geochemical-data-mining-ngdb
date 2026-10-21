@@ -44,7 +44,7 @@ requirements.txt
 ```bash
 pip install -r requirements.txt
 # place NGDB_merged_clean.csv in data/ (see data/README.md)
-jupyter notebook Project_Capstone.Data Mining.ipynb
+jupyter notebook Project_Capstone.ipynb
 ```
 
 ## Data
